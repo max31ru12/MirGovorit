@@ -24,7 +24,7 @@
 
 **Clone repository, install venv and requirements:**
 
-    git clone 
+    git clone https://github.com/max31ru12/MirGovorit.git 
 
     python3 -m venv venv
     source venv/bin/cativate 
